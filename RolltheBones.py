@@ -18,7 +18,6 @@ def roll_the_bones():
     print("If your guess is less than the total score, you will be rewarded with points equal to 5 less than your guess.")
     print("If your guess is equal to the total score, you will be rewarded with an astounding 50 points!")
     print("If your guess is greater than the total score, you will lose points equal to 5 minus your guess.")
-    print("Good luck!")
     
     input("Press Enter to begin.")
     playerScore = 0
